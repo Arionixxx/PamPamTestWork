@@ -1,0 +1,2 @@
+com/Arionix/PamPamTestGame/BuildConfig.java
+ com.Arionix.PamPamTestGame.BuildConfig
